@@ -1,0 +1,9 @@
+/Users/johannes/Rust/projects/lifetime-text-editor/target/debug/deps/anstyle_parse-a3ea5e218a22ff40.rmeta: /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
+
+/Users/johannes/Rust/projects/lifetime-text-editor/target/debug/deps/anstyle_parse-a3ea5e218a22ff40.d: /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
+
+/Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs:
+/Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs:
+/Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs:
+/Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs:
+/Users/johannes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs:
